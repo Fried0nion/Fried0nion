@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farid Alvin F.</h1>
 <h3 align="center">I'm on 2nd years in informatics engineering</h3>
-<img alig="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Data Structure, C++**
 
